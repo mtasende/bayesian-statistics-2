@@ -1,0 +1,52 @@
+code,name,country,region,,,
+AED,United Arab Emirates dirham,United Arab Emirates,Middle East & North Africa,,AED,TRUE
+BGN,Bulgarian Lev,Bulgaria,Europe & Central Asia,,BGN,TRUE
+BRL,Brazilian Real,Brazil,Latin America & Caribbean,,BRL,TRUE
+CAD,Canadian Dollar,Canada,North America,,CAD,TRUE
+CHF,Swiss Franc,Switzerland,Europe & Central Asia,,CHF,TRUE
+CNY,Yuan Renminbi,China,East Asia & Pacific,,CNY,TRUE
+COP,Colombian Peso,Colombia,Latin America & Caribbean,,COP,TRUE
+CYP,Cyprus Pound,Cyprus,Europe & Central Asia,,CYP,TRUE
+CZK,Czech Koruna,Czech Republic,Europe & Central Asia,,CZK,TRUE
+DKK,Danish Krone,Denmark,Europe & Central Asia,,DKK,TRUE
+DZD,Algerian Dinar,Algeria,Middle East & North Africa,,DZD,TRUE
+EGP,Egyptian Pound,Egypt,Middle East & North Africa,,EGP,TRUE
+EUR,Euro,European Union,Europe & Central Asia,,EUR,TRUE
+FJD,Fiji Dollar,Fiji,East Asia & Pacific,,FJD,TRUE
+GBP,Pound Sterling,United Kingdom,Europe & Central Asia,,GBP,TRUE
+GHS,Cedi,Ghana,Sub-Saharan Africa,,GHS,TRUE
+HKD,Hong Kong Dollar,Hong Kong,East Asia & Pacific,,HKD,TRUE
+HNL,Lempira,Honduras,Latin America & Caribbean,,HNL,TRUE
+HRK,Croatian Kuna,Croatia,Europe & Central Asia,,HRK,TRUE
+HUF,Forint,Hungary,Europe & Central Asia,,HUF,TRUE
+IDR,Rupiah,Indonesia,East Asia & Pacific,,IDR,TRUE
+ILS,New Israeli Shekel,Israel,Middle East & North Africa,,ILS,TRUE
+INR,Indian Rupee, India,South Asia,,INR,TRUE
+ISK,Iceland Krona,Iceland,Europe & Central Asia,,ISK,TRUE
+JMD,Jamaican Dollar,Jamaica,Latin America & Caribbean,,JMD,TRUE
+JPY,Japanese yen,Japan,East Asia & Pacific,,JPY,TRUE
+KRW,South Korean Won,South Korea,East Asia & Pacific,,KRW,TRUE
+KWD,Kuwaiti Dinar,Kuwait,Middle East & North Africa,,KWD,TRUE
+LKR,Sri Lanka Rupee,Sri Lanka,South Asia,,LKR,TRUE
+MAD,Moroccan Dirham,Morocco,Middle East & North Africa,,MAD,TRUE
+MTL,Maltese Lira,Malta,Middle East & North Africa,,MTL,TRUE
+MXN,Mexican Peso,Mexico,Latin America & Caribbean,,MXN,TRUE
+MYR,Malaysian Ringgit,Malaysia,East Asia & Pacific,,MYR,TRUE
+NOK,Norwegian Krone,Norway,Europe & Central Asia,,NOK,TRUE
+PEN,Nuevo Sol,Peru,Latin America & Caribbean,,PEN,TRUE
+PHP,Philippine Peso,Philippines,East Asia & Pacific,,PHP,TRUE
+PKR,Pakistan Rupee,Pakistan,South Asia,,PKR,TRUE
+PLN,Zloty,Poland,Europe & Central Asia,,PLN,TRUE
+RON,Romanian New Leu,Romania,Europe & Central Asia,,RON,TRUE
+RUB,Russian Ruble,Russia,Europe & Central Asia,,RUB,TRUE
+SAR,Saudi Riyal,Saudi Arabia,Middle East & North Africa,,SAR,TRUE
+SEK,Swedish Krona,Sweden,Europe & Central Asia,,SEK,TRUE
+SGD,Singapore Dollar,Singapore,East Asia & Pacific,,SGD,TRUE
+SKK,Slovak Koruna,Slovakia,Europe & Central Asia,,SKK,TRUE
+THB,Baht,Thailand,East Asia & Pacific,,THB,TRUE
+TND,Tunisian Dinar,Tunisia,Middle East & North Africa,,TND,TRUE
+TRY,New Turkish Lira,Turkey,Europe & Central Asia,,TRY,TRUE
+TTD,Trinidad and Tobago Dollar,Trinidad and Tobago,Latin America & Caribbean,,TTD,TRUE
+UYU,Peso Uruguayo,Uruguay,Latin America & Caribbean,,UYU,TRUE
+VND,Vietnamese đồng,Vietnam,East Asia & Pacific,,VND,TRUE
+ZAR,South African Rand,South Africa,Sub-Saharan Africa,,ZAR,TRUE

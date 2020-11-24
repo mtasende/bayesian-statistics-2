@@ -1,0 +1,52 @@
+code,name,country,region
+EUR,Euro,European Union,Europe & Central Asia
+CYP,Cyprus Pound,Cyprus,Europe & Central Asia
+MTL,Maltese Lira,Malta,Middle East & North Africa
+SKK,Slovak Koruna,Slovakia,Europe & Central Asia
+CAD,Canadian Dollar,Canada,North America
+HKD,Hong Kong Dollar,Hong Kong,East Asia & Pacific
+CZK,Czech Koruna,Czech Republic,Europe & Central Asia
+DKK,Danish Krone,Denmark,Europe & Central Asia
+ISK,Iceland Krona,Iceland,Europe & Central Asia
+ILS,New Israeli Shekel,Israel,Middle East & North Africa
+JPY,Japanese yen,Japan,East Asia & Pacific
+KRW,South Korean Won,South Korea,East Asia & Pacific
+NOK,Norwegian Krone,Norway,Europe & Central Asia
+SGD,Singapore Dollar,Singapore,East Asia & Pacific
+SEK,Swedish Krona,Sweden,Europe & Central Asia
+CHF,Swiss Franc,Switzerland,Europe & Central Asia
+GBP,Pound Sterling,United Kingdom,Europe & Central Asia
+CNY,Yuan Renminbi,China,East Asia & Pacific
+FJD,Fiji Dollar,Fiji,East Asia & Pacific
+INR,Indian Rupee, India,South Asia
+IDR,Rupiah,Indonesia,East Asia & Pacific
+MYR,Malaysian Ringgit,Malaysia,East Asia & Pacific
+PHP,Philippine Peso,Philippines,East Asia & Pacific
+LKR,Sri Lanka Rupee,Sri Lanka,South Asia
+THB,Baht,Thailand,East Asia & Pacific
+VND,Vietnamese đồng,Vietnam,East Asia & Pacific
+BGN,Bulgarian Lev,Bulgaria,Europe & Central Asia
+HRK,Croatian Kuna,Croatia,Europe & Central Asia
+HUF,Forint,Hungary,Europe & Central Asia
+PLN,Zloty,Poland,Europe & Central Asia
+RON,Romanian New Leu,Romania,Europe & Central Asia
+TRY,New Turkish Lira,Turkey,Europe & Central Asia
+RUB,Russian Ruble,Russia,Europe & Central Asia
+DZD,Algerian Dinar,Algeria,Middle East & North Africa
+EGP,Egyptian Pound,Egypt,Middle East & North Africa
+KWD,Kuwaiti Dinar,Kuwait,Middle East & North Africa
+MAD,Moroccan Dirham,Morocco,Middle East & North Africa
+PKR,Pakistan Rupee,Pakistan,South Asia
+SAR,Saudi Riyal,Saudi Arabia,Middle East & North Africa
+TND,Tunisian Dinar,Tunisia,Middle East & North Africa
+AED,United Arab Emirates dirham,United Arab Emirates,Middle East & North Africa
+GHS,Cedi,Ghana,Sub-Saharan Africa
+ZAR,South African Rand,South Africa,Sub-Saharan Africa
+BRL,Brazilian Real,Brazil,Latin America & Caribbean
+COP,Colombian Peso,Colombia,Latin America & Caribbean
+HNL,Lempira,Honduras,Latin America & Caribbean
+JMD,Jamaican Dollar,Jamaica,Latin America & Caribbean
+MXN,Mexican Peso,Mexico,Latin America & Caribbean
+PEN,Nuevo Sol,Peru,Latin America & Caribbean
+TTD,Trinidad and Tobago Dollar,Trinidad and Tobago,Latin America & Caribbean
+UYU,Peso Uruguayo,Uruguay,Latin America & Caribbean
